@@ -73,7 +73,7 @@ You attacked the Dragon!
 You dealt 20 damage.
 ```
 
-## 🚀 Future Improvements
+## 🛠️ Future Improvements 
 
 - Add more enemies
 - Add weapons and armor
